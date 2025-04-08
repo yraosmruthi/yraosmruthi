@@ -1,4 +1,4 @@
-![MasterHeader](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQxMTI3MTYsIm5iZiI6MTc0NDExMjQxNiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDA4VDExNDAxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkzYzQxYTRiMDUwMWFmOGZjZTM2ZjBjMzQyZjg5Y2NiODU3ZTViZjg1ZWU0NmE2YjkwZWI1NDhmZmRlNzY4ZGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YttP0kB3BYwz-h_rxdbLVqMzk5qTR-6Ja3sUIn4pXX0 "Header")
+![MasterHeader](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7 "Header")
 
 <h1 align="center">Hi 👋, I'm Smruthi Y Rao</h1>
 <h3 align="center">A passionate web developer from India</h3>
@@ -6,11 +6,11 @@
 <img align="right" width=400 alt="coding" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
 
-- 🔭 I’m currently working on *MERN stack development*
+- 🔭 I’m currently working on MERN stack development
 
-- 🌱 I’m currently learning *React JS*
+- 🌱 I’m currently learning React JS
 
-- 📫 How to reach me *yraosmruthi@gmail.com*
+- 📫 How to reach me yraosmruthi@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
@@ -29,5 +29,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yraosmruthi&" alt="yraosmruthi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yraosmruthi&show_icons=true&locale=en" alt="yraosmruthi" /></p>
-
 
